@@ -1,0 +1,35 @@
+problem link : https://cssbattle.dev/play/Ly5VzNJ54nu0R1dJvPZi
+
+solution : 
+    <div class="main">
+      <div class='a'></div>
+      <div class='b'></div>
+    </div>
+    <style>
+      body{
+        background: #F48B26;
+        margin: 0;
+      }
+      .main {
+        width: 350px;
+        height: 250px;
+        background: #FEFF58;
+        position: relative;
+        top: 50px;
+        transform: rotateY(180deg);
+      }
+      .a{
+        background: #F48B26;
+        width: 150px;
+        height: 50px;
+        position: relative;
+        top: 50px;
+      }
+      .b{
+        background: #F48B26;
+        width: 150px;
+        height: 50px;
+        position: relative;
+        top: 100px;
+      }
+    </style>
