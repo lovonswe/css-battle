@@ -19,4 +19,4 @@ In addition to the daily targets, I also submit some cool animations that I've c
 To view my solutions and animations, simply clone this repository and open the HTML files in your browser.
 
 ```sh
-git clone https://github.com/your-username/css-battle.git
+git clone https://github.com/lovonswe/css-battle.git
